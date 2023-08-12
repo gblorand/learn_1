@@ -1,7 +1,4 @@
-# This is a sample Python script.
-
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
+from util.alg import sum_int
 
 
 def print_hi(name):
@@ -12,5 +9,7 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
+    sum_int(1,2)
+
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
